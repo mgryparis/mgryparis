@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working:  on Learning Java
-- 🌱 I’m currently learning:  SeeAbove
-- 👯 I’m looking to collaborate on:  Nothing ... yet
-- 🤔 I’m looking for help with:  Nothing ... yet
-- 💬 Ask me about:  Enterprise Architecture
-- 📫 How to reach me: just email
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like pizza!
+### - 🔭 I’m currently working:  on Learning Java
+### - 🌱 I’m currently learning:  SeeAbove
+### - 👯 I’m looking to collaborate on:  Nothing ... yet
+### - 🤔 I’m looking for help with:  Nothing ... yet
+### - 💬 Ask me about:  Enterprise Architecture
+### - 📫 How to reach me: my git email
+### - 😄 Pronouns: he/him/his
+### - ⚡ Fun fact: I like pizza!
 -->
